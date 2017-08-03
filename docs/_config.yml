@@ -24,7 +24,7 @@ github_username:  cttgroup
 markdown: kramdown
 theme: minima
 # theme: jekyll-theme-cayman
-gems:
+plugins:
   # - jekyll-feed
   # - jekyll-github-comments
 exclude:
