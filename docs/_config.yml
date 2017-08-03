@@ -25,17 +25,17 @@ markdown: kramdown
 theme: minima
 # theme: jekyll-theme-cayman
 gems:
-  - jekyll-feed
-  - jekyll-github-comments
+  # - jekyll-feed
+  # - jekyll-github-comments
 exclude:
   - Gemfile
   - Gemfile.lock
-  - rundev.sh
+  - dev.sh
   - fake-daemon.sh
   - _src/
 # plugins_dir: [jekyll-github-comments]
 github_comments:
-  repo: cttgroup/oceanhub
+  repo: cttgroup/oceanhuben
   # branch: master
   # comment_template: comments.html
   # comments_template: comments.html
