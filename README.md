@@ -21,6 +21,7 @@ During this project we are going to develop algorithms and software for remote s
 ## To-do problems
 
 We detected some important tasks to be sold:
+
 1) Localization of sea regions for observation.
 Fishing areas have large squares of tens and hundreds of square kilometers while one high-resolution satellite image covers no more than several square kilometers. That means that we can’t get satellite imagery coverage for such a giant area. There have to exist key parameters for limitation of observed area.
 2) Satellite imagery localization
@@ -28,6 +29,7 @@ We need such an imagery that contains definitely our object of interest (fish ag
 3) Fish aggregation identification. Even an experienced observer may be confused identifying some similar object like algae, garbage, cloud shadow etc.as a fish aggregation. Today’s progress in automatic image processing technologies may help us to develop a reliable method of automatic object identification.
 
 ## Difficulties and limitations
+
 There exist some limitations for prospective technology applications we have to keep in mind:
 - Some fishing areas  -mainly in north seas – are often covered by clouds, so they are unavailable for satellite imagery in visible optic range.
 - In-operation satellites with high-resolution scanners are used mainly for land cover observations. In case of need to scan some marine areas it may be unavailable because of duty or its trajectory may be far from ocean areas.
