@@ -17,7 +17,9 @@ title: Ocean
 # email: ocean@domain.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+relative_url: ""
+# url: "https://cttgroup.github.io/oceanhuben/" # the base hostname & protocol for your site, e.g. http://example.com
+url: ""
 github_username:  cttgroup
 
 # Build settings

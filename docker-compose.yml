@@ -4,7 +4,7 @@ services:
     container_name: oceanhuben_jekyll
     build: ./jekyll/.
     ports:
-      - "23400:4000"
+      - "23401:4000"
     volumes:
       - ./docs:/workdir
     command: /bin/bash fake-daemon.sh
